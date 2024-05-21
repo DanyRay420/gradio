@@ -7,3 +7,4 @@ scipy
 cmake
 onnxruntime-gpu
 opencv-python-headless
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
