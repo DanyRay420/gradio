@@ -3,3 +3,4 @@ transformers
 nvidia-ml-py3
 ftfy
 torch
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
