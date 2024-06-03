@@ -10,7 +10,7 @@ Jinja2<4.0
 markupsafe~=2.0
 matplotlib~=3.0
 numpy~=1.0
-orjson~=3.0
+orjson~=3.9.15
 packaging
 pandas>=1.0,<3.0
 pillow>=8.0,<11.0
