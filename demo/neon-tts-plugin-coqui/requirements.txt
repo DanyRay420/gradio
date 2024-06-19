@@ -1,1 +1,2 @@
 neon-tts-plugin-coqui==0.4.1a9
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
