@@ -1,3 +1,4 @@
 git+https://github.com/huggingface/transformers
 gradio
 torch
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
