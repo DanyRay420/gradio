@@ -1,4 +1,4 @@
-holidays==0.24
+holidays==0.45
 prophet==1.1.2
 pandas
 pypistats
