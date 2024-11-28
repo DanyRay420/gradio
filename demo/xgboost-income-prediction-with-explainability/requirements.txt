@@ -4,3 +4,4 @@ shap
 xgboost==1.7.6
 pandas
 datasets
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
