@@ -1,3 +1,4 @@
 psycopg2
 matplotlib
 SQLAlchemy
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
